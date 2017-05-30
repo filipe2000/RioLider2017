@@ -1,0 +1,1096 @@
+/*============================================================
+    xs (por telefone)
+    sm (para tablets)
+    md (para desktops)
+    lg (para desktops maiores)
+==============================================================*/
+@media (min-width: 1501px){
+    .subProd{
+    width: 50%;
+    height: 280px;
+    background-color: #fff; 
+    background-image: url('../img/caixas.png');
+    background-size: contain; 
+    background-repeat: no-repeat;  
+    padding-right: 50px;  
+    background-position: center;
+    }
+    .navbar-brand img{
+    max-width:300px;
+    }
+    .vend b {
+    font-size: 14px;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 18px;
+    line-height: 26px;
+    padding: 20px 25px;    
+    }
+    /* parallax section 
+    .parallax-section {
+        background-position: center top !important;
+    }*/
+    
+    /* home slider */
+    #slitSlider .carousel-caption h2 {
+        font-size: 60px;
+    }
+    
+    /* about us */
+    .feature-desc h3 {
+        margin-top: 0;
+    }
+    
+    /* our team */
+    .team-mate {
+        margin-bottom: 30px;
+    }
+
+    .mask ul {
+        top: 85px;
+    }
+
+    .mask ul li {
+        margin: 0 5px;
+    }
+
+    .team-mate > h4 {
+        margin-bottom: 10px;
+    }
+
+    .team-mate img {
+        margin: 0 auto;
+    }
+
+    .member-info ul li {
+        margin-right: 10px;
+    }
+    /* testimonial */
+    .client-info {
+        width: 55%;
+    }
+    
+    /* blog page */
+    .tab-post-nav li a {
+        padding: 15px 8px;
+    }
+    
+    /* single blog page */
+    .author-bio h5 {
+        margin-left: 70px;
+    }
+}
+@media (min-width: 1251px) and (max-width: 1500px) {
+
+    .navbar-brand img{
+    max-width:250px;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 18px;
+    line-height: 26px;
+    padding: 20px 25px;    
+    }
+    .subProd{
+    width: 70%;
+    height: 370px;
+    background-color: #fff; 
+    background-image: url('../img/caixas.png');
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    padding-right: 50px;   
+    background-position: center;
+    }
+    .vend b {
+    font-size: 14px;
+}
+}
+@media (min-width: 1025px) and (max-width: 1250px) {
+    .subProd{
+    width: 70%;
+    height: 370px;
+    background-color: #fff; 
+    background-image: url('../img/caixas.png');
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    padding-right: 50px;   
+    background-position: center;
+    }
+    .navbar-brand img{
+    max-width:200px;
+    }
+    .vend b {
+    font-size: 14px;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 18px;
+    line-height: 26px;
+    padding: 20px 17px;    
+    }
+	/* parallax section 
+    .parallax-section {
+        background-position: center top !important;
+    }*/
+	
+	/* home slider */
+    #slitSlider .carousel-caption h2 {
+        font-size: 60px;
+    }
+	
+	/* about us */
+    .feature-desc h3 {
+        margin-top: 0;
+    }
+	
+	/* our team */
+    .team-mate {
+        margin-bottom: 30px;
+    }
+
+    .mask ul {
+        top: 85px;
+    }
+
+    .mask ul li {
+        margin: 0 5px;
+    }
+
+    .team-mate > h4 {
+        margin-bottom: 10px;
+    }
+
+    .team-mate img {
+        margin: 0 auto;
+    }
+
+    .member-info ul li {
+        margin-right: 10px;
+    }
+	/* testimonial */
+    .client-info {
+        width: 55%;
+    }
+	
+	/* blog page */
+	.tab-post-nav li a {
+		padding: 15px 8px;
+	}
+	
+	/* single blog page */
+    .author-bio h5 {
+        margin-left: 70px;
+    }
+}
+@media (min-width: 980px) and (max-width: 1024px) {
+    .subProd{
+    width: 60%;
+    height: 260px;
+    background-color: #fff; 
+    background-image: url('../img/caixas.png');
+    background-size: contain; 
+    background-repeat: no-repeat;
+    padding-right: 50px;
+    background-position: center;
+    }
+    .vend b {
+    font-size: 14px;
+    }
+    /*menu*/
+    .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 16px;
+    line-height: 26px;
+    padding: 20px 8px;    
+    }
+    .navbar-brand img{
+    max-width:180px;
+    }
+    /* parallax section 
+    .parallax-section {
+        background-position: center top !important;
+    }*/
+    
+    /* home slider */
+    #slitSlider .carousel-caption h2 {
+        font-size: 60px;
+    }
+    
+    /* about us */
+    .feature-desc h3 {
+        margin-top: 0;
+    }
+    
+    /* our team */
+    .team-mate {
+        margin-bottom: 30px;
+    }
+
+    .mask ul {
+        top: 85px;
+    }
+
+    .mask ul li {
+        margin: 0 5px;
+    }
+
+    .team-mate > h4 {
+        margin-bottom: 10px;
+    }
+
+    .team-mate img {
+        margin: 0 auto;
+    }
+
+    .member-info ul li {
+        margin-right: 10px;
+    }
+    /* testimonial */
+    .client-info {
+        width: 55%;
+    }
+    
+    /* blog page */
+    .tab-post-nav li a {
+        padding: 15px 8px;
+    }
+    
+    /* single blog page */
+    .author-bio h5 {
+        margin-left: 70px;
+    }
+}
+
+/*============================================================
+	Tablet (Portrait) Design for a width of 768px
+==============================================================*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+   .subProd{
+    width: 60%;
+    height: 200px;  
+     background-color: #fff; 
+    background-image: url('../img/caixas.png');
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    padding-top: 0px;
+    padding-right: 50px;
+    background-position: center;
+    }/*menu*/
+    .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 14px;
+    line-height: 26px;
+    padding: 20px 6px;    
+    }
+    .vend b {
+    font-size: 14px;
+    }
+    .navbar-brand img{
+    max-width:200px;
+    }
+    .navbar > .container .navbar-brand,
+      .navbar > .container-fluid .navbar-brand {
+        margin-left: 30px;
+      }
+     
+	/* parallax section 
+    .parallax-section {
+        background-position: center top !important;
+    }*/
+
+	/* home page slider */
+    #slitSlider .carousel-caption h2 {
+        font-size: 50px;
+    }
+
+    #nav-dots {
+        display: block;
+    }
+
+    #nav-arrows {
+        display: none;
+    }
+
+	/* about us */
+    .wrap-about {
+        margin: 0 0 75px;
+    }
+
+    .about-content {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+	/* fun facts */
+    #counter , #vendidos{
+        padding-bottom: 50px;
+    }
+
+
+    .counters-item {
+        margin-bottom: 30px;
+    }
+
+	/* our products */
+    .service-block {
+        margin: 0 auto 40px;
+        width: 310px;
+    }
+
+	/* our team */
+    .team-mate {
+        margin: 0 auto 30px;
+        width: 280px;
+    }
+
+	/* our skills */
+    .skill-chart {
+        margin: 0 auto 40px;
+        width: 300px;
+    }
+
+    .skill-chart {
+        margin: 0 auto 40px;
+        width: 90%;
+    }
+
+    .skill-chart > h3 {
+        margin: 15px 0;
+    }
+
+	/* pricing table */
+    .pricing {
+        margin: 0 auto 30px;
+        width: 300px;
+    }
+
+	/* testimonial */
+    .client-info {
+        width: 75%;
+    }
+
+	/* latest posts */
+    .note {
+        margin-bottom: 30px;
+    }
+
+	/* blog page */
+    .tab-post-nav li a {
+        padding: 10px;
+    }
+
+	/* singla blog page */
+    .author-social {
+        margin-left: 0;
+    }
+}
+/*============================================================
+	Mobile (Portrait) Design for a width of 320px
+==============================================================*/
+/*
+@media only screen and (max-width: 767px) {
+    .subProd{
+    width: 70%;
+    height: 200px;
+     background-color: #fff; 
+    background-image: url('../img/caixas.png');
+    background-size: contain; 
+    background-repeat: no-repeat;
+    padding-right: 50px;   
+    background-position: center;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 18px;
+    line-height: 26px;
+    padding: 20px 6px;    
+    }
+	
+    .parallax-section {
+        background-position: center top !important;
+    }
+
+	
+    h1 {
+        font-size: 30px;
+    }
+
+    .carousel-caption img {
+        width: 50%;
+    }
+
+    #slitSlider .carousel-caption h2 {
+        font-size: 24px;
+        letter-spacing: 0.5px;
+        line-height: 35px;
+        margin-bottom: 25px;
+    }
+
+    #slitSlider .carousel-caption h3 {
+        font-size: 20px;
+        letter-spacing: 0.5px;
+        line-height: 28px;
+        margin-bottom: 25px;
+    }
+
+    #slitSlider .carousel-caption a {
+        font-size: 14px;
+    }
+
+    #nav-dots {
+        display: block;
+    }
+
+    #nav-arrows {
+        display: none;
+    }
+
+    .navbar-fixed-top {
+        padding-bottom: 10px;
+    }
+
+    .navbar-inverse .navbar-toggle,
+	.navbar-inverse .navbar-toggle .icon-bar {
+        border-color: #4e595f;
+        border-radius: 0;
+    }
+
+    .navbar-inverse .navbar-toggle:hover {
+        border-color: #ddd;
+        border-radius: 0;
+        background-color: #00008B;
+    }
+
+    .navbar-inverse .navbar-toggle .icon-bar:hover {
+        background-color: #ddd;
+    }
+
+    .navbar-collapse.in {
+        overflow-y: inherit;
+    }
+
+    .navbar-brand {
+        float: left;
+        padding: 20px 0px 0px 0px;
+    }
+
+    .navbar-toggle {
+        margin-top: 30px;        
+        margin-bottom: 20px
+    }
+
+    .navbar-inverse .navbar-nav li a {
+        line-height: 45px;
+        padding: 0;
+        text-align: center;
+        border-bottom: 1px solid transparent;
+    }
+
+    .wrap-about {
+        margin: 0 auto 80px;
+        width: 85%;
+    }
+
+    .feature-desc a {
+        margin: 5px 5px 5px 0;
+    }
+    .counters-item {
+        margin: 0px 0px 0px 5px;
+        width: 100px;
+    }
+    #produtos .title {
+        padding-bottom: 20px;
+    }
+
+    .service-block {
+        margin: 0 auto 30px;
+        width: 280px;
+        position: relative;
+        left: -8px;
+    }
+
+    .skill-chart {
+        margin: 0 auto 40px;
+        width: 280px;
+    }
+    .team-mate {
+        margin: 0 auto 31px;
+        width: 280px;
+    }
+
+    .team-mate img {
+        margin: 0 auto;
+    }
+
+    .member-info ul {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .pricing {
+        margin: 0 auto 20px;
+        width: 280px;
+    }
+
+    .portfolio-filter ul li a {
+        margin: 0 10px 10px 0;
+        padding: 5px 10px;
+    }
+
+    .sub-title h3 {
+        font-size: 18px;
+    }
+
+    .client-info {
+        width: 100%;
+    }
+
+    #blog {
+        padding-bottom: 0;
+    }
+	
+    .note {
+        margin-bottom: 30px;
+    }
+
+    .note .excerpt {
+        padding: 0 20px 20px;
+    }
+
+    .all-post {
+        margin: 20px 0 30px;
+    }
+
+        margin: 0 0 30px;
+    }
+
+    #map-canvas {
+        height: 250px;
+    }
+
+    .social-icon ul li, .social-icon ul li:first-child {
+        margin: 15px;
+    }
+
+    .social-icon ul li a {
+        width: 50px;
+        height: 50px;
+    }
+
+    .social-icon ul li a i {
+        font-size: 24px;
+        line-height: 50px;
+    }
+
+    .blog-title h1 {
+        font-size: 28px;
+    }
+
+    #blog-page {
+        margin: 0;
+    }
+
+    #blog-posts {
+        margin: 0 0 40px;
+    }
+
+    .post-excerpt h3 {
+        font-size: 20px;
+    }
+	
+	.post-pagination ul li {
+		margin: 0 10px 10px 0;
+	}
+	
+    .tab-post-nav li a {
+        padding: 8px 5px;
+    }
+
+    .author-social {
+        margin-left: 0;
+    }
+
+    .author-avatar {
+        margin-right: 10px;
+    }
+}
+*/
+/*============================================================
+	Mobile (Landscape) Design for a width of 480px
+==============================================================*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .subProd{
+    width: 85%;
+    height: 160px;
+     background-color: #fff; 
+    background-image: url('../img/caixas.png');
+    background-size: contain; 
+    background-repeat: no-repeat;
+    padding-right: 50px;  
+    background-position: center; 
+    }
+
+    .vend b {
+    font-size: 11px;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 18px;
+    line-height: 26px;
+    padding: 20px 6px;    
+    }
+    .navbar-header{
+        margin-top: 20px;
+    }
+    
+    .navbar-brand img{
+    max-width:280px;
+    }
+    .portfolio-filter{
+        width: 110px;
+        text-align: right;
+        float: right;
+        margin-right: -15px;
+    }
+    .prod-filter{
+        display: inline;
+        width: 410px;
+    }
+	/* homepage slider */
+    #slitSlider .carousel-caption h2 {
+        font-size: 30px;
+    }
+
+    #slitSlider .carousel-caption h3 {
+        font-size: 25px;
+    }
+
+    #slitSlider .carousel-caption a {
+        font-size: 14px;
+    }
+
+    .carousel-caption img {
+        width: 50%;
+    }
+
+	/* navigation */
+    .navbar-fixed-top {
+        padding-bottom: 10px;
+    }
+
+    .navbar-brand {
+        float: left;
+        padding: 10px 0px 0px 120px;
+    }
+
+    .navbar-inverse .navbar-toggle {
+        border-color: #fff;
+        border-radius: 0;
+    }
+
+    .navbar-inverse .navbar-toggle:hover {
+        border-color: #fff;
+        border-radius: 0;
+    }
+
+    .navbar-collapse.in {
+        overflow-y: inherit;
+    }
+
+    .navbar-toggle {
+        margin-top: 22px;
+    }
+
+    .navbar-inverse .navbar-nav li a {
+        line-height: 35px;
+        padding: 0;
+        text-align: center;
+        border-bottom: 2px solid transparent;
+    }
+
+	/* about us */
+    .wrap-about {
+        margin: 0 auto 75px;
+        width: 70%;
+    }
+
+	/* produtos */
+    .service-block {
+        margin: 0 auto 40px;
+        width: 310px;
+    }
+
+	/* our team */
+    .team-mate {
+        margin: 0 auto 30px;
+        width: 280px;
+    }
+
+    .team-mate img {
+        margin: 0 auto;
+    }
+
+	/* Produtos */
+    .og-grid li {
+        width: 245px;
+    }
+
+	/* skills */
+    .skill-chart {
+        margin: 0 auto 40px;
+        width: 300px;
+    }
+
+	/* pricing table */
+    .pricing {
+        margin: 0 auto 30px;
+        width: 350px;
+    }
+
+	/* testimonials */
+    .client-info {
+        width: 74%;
+    }
+
+	/* latest posts */
+    #blog {
+        padding-bottom: 0;
+    }
+	
+    .note {
+        margin: 0 auto 30px;
+        width: 75%;
+    }
+
+	/* contact */
+    .contact-info {
+        width: 100%;
+    }
+
+	/* blog page */
+    .tab-post-nav li a {
+        padding: 10px 15px;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    .subProd{
+    width: 80%;
+    height: 150px;
+     background-color: #fff; 
+    background-image: url('../img/caixas.png');
+    background-size: contain; 
+    background-repeat: no-repeat;  
+    padding-right: 50px; 
+    background-position: center;
+    }
+    .vend b {
+    font-size: 10px;
+    }
+    .navbar-header{
+        margin-top: 20px;
+    }
+    
+    .navbar-brand img{
+    max-width:250px;
+    }
+    .portfolio-filter{
+        width: 100px;
+        float: right;
+        text-align: right;
+    margin-right: -15px;
+    }
+    .prod-filter{
+        display: inline;
+        width: 100%;
+    }
+    .prod-filter ul li a{
+        font-size: 14px;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 14px;
+    line-height: 26px;
+    padding: 10px 6px;    
+    }
+    .evDesc span{
+        font-size: 11px;
+    }
+    /* homepage slider */
+    #slitSlider .carousel-caption h2 {
+        font-size: 20px;
+    }
+
+    #slitSlider .carousel-caption h3 {
+        font-size: 15px;
+    }
+
+    #slitSlider .carousel-caption a {
+        font-size: 10px;
+    }
+
+    .carousel-caption img {
+        width: 80%;
+    }
+
+    /* navigation */
+    .navbar-fixed-top {
+        padding-bottom: 10px;
+    }
+
+    .navbar-brand {
+        float: left;
+        padding: 10px 0px 0px 0px;
+    }
+
+    .navbar-inverse .navbar-toggle {
+        border-color: #fff;
+        border-radius: 0;
+    }
+
+    .navbar-inverse .navbar-toggle:hover {
+        border-color: #fff;
+        border-radius: 0;
+    }
+
+    .navbar-collapse.in {
+        overflow-y: overlay;
+    }
+
+    .navbar-toggle {
+        margin-top: 22px;
+    }
+
+    .navbar-inverse .navbar-nav li a {
+        line-height: 35px;
+        padding: 0;
+        text-align: center;
+        border-bottom: 2px solid transparent;
+    }
+
+    /* about us */
+    .wrap-about {
+        margin: 0 auto 75px;
+        width: 90%;
+    }
+
+    /* produtos */
+    .service-block {
+        margin: 0 auto 40px;
+        width: 310px;
+    }
+
+    /* our team */
+    .team-mate {
+        margin: 0 auto 30px;
+        width: 280px;
+    }
+
+    .team-mate img {
+        margin: 0 auto;
+    }
+
+    /* Produtos */
+    .og-grid li {
+        width: 245px;
+    }
+
+    /* skills */
+    .skill-chart {
+        margin: 0 auto 40px;
+        width: 300px;
+    }
+
+    /* pricing table */
+    .pricing {
+        margin: 0 auto 30px;
+        width: 350px;
+    }
+
+    /* testimonials */
+    .client-info {
+        width: 74%;
+    }
+
+    /* latest posts */
+    #blog {
+        padding-bottom: 0;
+    }
+    
+    .note {
+        margin: 0 auto 30px;
+        width: 75%;
+    }
+
+    /* contact */
+    .contact-info {
+        width: 100%;
+    }
+
+    /* blog page */
+    .tab-post-nav li a {
+        padding: 10px 15px;
+    }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 319px) {
+    .subProd{
+    width: 85%;
+    height: 125px;
+     background-color: #fff; 
+    background-image: url('../img/caixas.png');
+    background-size: contain; 
+    background-repeat: no-repeat;
+    padding-right: 50px; 
+    background-position: center;  
+    }
+    .vend b {
+    font-size: 9px;
+    }
+    .navbar-header{
+        margin-top: 20px;
+    }
+  
+    .navbar-brand img{
+    max-width:200px;
+    }
+    .portfolio-filter{
+        width: 93px;
+        text-align: right;
+        margin-right: -15px;
+    }
+    .prod-filter{
+        display: inline;
+        width: 100%;
+    }
+    .prod-filter ul li a{
+        font-size: 11px;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 14px;
+    line-height: 26px;
+    padding: 20px 6px;    
+    }
+    .evDesc span{
+        font-size: 14px;
+    }
+    /* homepage slider */
+    #slitSlider .carousel-caption h2 {
+        font-size: 20px;
+    }
+
+    #slitSlider .carousel-caption h3 {
+        font-size: 15px;
+    }
+
+    #slitSlider .carousel-caption a {
+        font-size: 10px;
+    }
+
+    .carousel-caption img {
+        width: 80%;
+    }
+
+    /* navigation */
+    .navbar-fixed-top {
+        padding-bottom: 10px;
+    }
+
+    .navbar-brand {
+        width: 122px;
+        float: left;
+        padding: 10px 0px 0px 0px;
+    }
+
+    .navbar-inverse .navbar-toggle {
+        border-color: #fff;
+        border-radius: 0;
+    }
+
+    .navbar-inverse .navbar-toggle:hover {
+        border-color: #fff;
+        border-radius: 0;
+    }
+
+    .navbar-collapse.in {
+        overflow-y: inherit;
+    }
+
+    .navbar-toggle {
+        margin-top: 22px;
+    }
+
+    .navbar-inverse .navbar-nav li a {
+        line-height: 35px;
+        padding: 0;
+        text-align: center;
+        border-bottom: 2px solid transparent;
+    }
+
+    /* about us */
+    .wrap-about {
+        margin: 0 auto 75px;
+        width: 90%;
+    }
+
+    /* produtos */
+    .service-block {
+        margin: 0 auto 40px;
+        width: 310px;
+    }
+
+    /* our team */
+    .team-mate {
+        margin: 0 auto 30px;
+        width: 280px;
+    }
+
+    .team-mate img {
+        margin: 0 auto;
+    }
+
+    /* Produtos */
+    .og-grid li {
+        width: 245px;
+    }
+
+    /* skills */
+    .skill-chart {
+        margin: 0 auto 40px;
+        width: 300px;
+    }
+
+    /* pricing table */
+    .pricing {
+        margin: 0 auto 30px;
+        width: 350px;
+    }
+
+    /* testimonials */
+    .client-info {
+        width: 74%;
+    }
+
+    /* latest posts */
+    #blog {
+        padding-bottom: 0;
+    }
+    
+    .note {
+        margin: 0 auto 30px;
+        width: 75%;
+    }
+
+    /* contact */
+    .contact-info {
+        width: 100%;
+    }
+
+    /* blog page */
+    .tab-post-nav li a {
+        padding: 10px 15px;
+    }
+}
