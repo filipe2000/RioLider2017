@@ -94,12 +94,12 @@ var d= document.getElementById("Down").style.display;
 			</li>	
 			<li>
 				<a href="#produtos" onclick="carregar('includes/produtos/oleo/oleo.html')" class="filter">Óleo</a>
-			</li><!--
+			</li>
 			<li>
-				<a href="#produtos" onclick="carregar('includes/produtos/pivo/pivo.html')" class="filter">Pivo</a>
+				<a href="#produtos" onclick="carregar('includes/produtos/rolamento/rolamento.html')" class="filter">Rolamento</a>
 			</li>
 					
-			 -->
+			
 			<a href="#catalogo">
 			<i class="fa fa-newspaper-o homeProd sc"  id="rote" title="Catálogo dos produtos"></i>
 			</a>
@@ -159,12 +159,12 @@ var d= document.getElementById("Down").style.display;
 			</li>	
 			<li>
 				<a href="#produtos" onclick="carregar('includes/produtos/oleo/oleo.html')" class="filter">Óleo</a>
-			</li><!--
-			<li>
-				<a href="#produtos" onclick="carregar('includes/produtos/pivo/pivo.html')" class="filter">Pivo</a>
 			</li>
-					
-			 -->
+			<li>
+				<a href="#produtos" onclick="carregar('includes/produtos/rolamento/rolamento.html')" class="filter">Rolamento</a>
+			</li>
+
+			
 			<a href="#catalogo">
 			<i class="fa fa-newspaper-o homeProd sc"  id="rote" title="Catálogo dos produtos"></i>
 			</a>
