@@ -136,20 +136,10 @@
 <br>
     
     <div class="row subR">
-        <div class="col-md-4 col-sm-6 col-xs-12 imgC">
-       <h3><span class="color">CARAVANA AUTOMEC 2017</span></h3> 
-
-       <img src="img/automec/001.jpg">
-       </div>
-          <div class="col-md-4 col-sm-6 col-xs-12 ">          
-          <h3><span class="color">CARAVANA PERFECT 2017</span></h3>
-          <a href="eventos/perfect17/perfect1.php" target="_blank" class="imgC">
-          <img src="img/perfect/001.jpg"></a>
-          </div>       
-       <div class="col-md-4 col-sm-6 col-xs-12">   
-       <h3><span class="color">CARAVANA PERFECT 2015</span></h3>    
-         <div id="caravana" style="width: 100%; height: 300px;"></id></div>
-      </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+        <h2><span class="color">CARAVANA PERFECT 2015</span></h2>    
+        <div id="caravana" style="width: 50%; height: 300px;"></id>
+        </div>
     </div>
 </div><!-- container -->
 

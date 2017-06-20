@@ -8,9 +8,9 @@ html{
     font-family: myFont;
     src: url(../fonts/OpenSans-Light.woff);
 }
-div{/*  bordas 
+div{/*  bordas */
 	border: 1px solid red;
-	*/
+	
 }
 body {	
 	background-color: #000;
