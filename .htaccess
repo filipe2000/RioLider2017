@@ -1,0 +1,4 @@
+RewriteEngine On 
+
+RewriteRule ^automec2017?$ eventos/automec.php
+RewriteRule ^perfect2017?$ eventos/perfect.php

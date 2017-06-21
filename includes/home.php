@@ -61,7 +61,9 @@
             -->
             <div class="carousel-inner col-md-12 col-sm-12 col-xs-12">
 
-                <div class="item active" style="background-image: url(img/slider/data1/images/1.jpg)">
+                <div class="item active" style="background-image: url(img/slider/data1/images/0.jpg)">                    
+                </div>
+                <div class="item " style="background-image: url(img/slider/data1/images/1.jpg)">
                     <div class="container">
                     <!--
                         <div class="row slide-margin">
@@ -136,15 +138,16 @@
 <br>
     
     <div class="row subR">
-        <div class="col-md-4 col-sm-6 col-xs-12 imgC">
-       <h3><span class="color">CARAVANA AUTOMEC 2017</span></h3> 
-
-       <img src="img/automec/001.jpg">
+        <div class="col-md-4 col-sm-6 col-xs-12 ">
+        <a href="automec2017" target="_blank" >
+       <h3><span class="color" id="auto">CARAVANA AUTOMEC 2017</span></h3>      
+       <img src="img/automec.jpg" style="width: 100%;">
+       </a>
        </div>
           <div class="col-md-4 col-sm-6 col-xs-12 ">          
           <h3><span class="color">CARAVANA PERFECT 2017</span></h3>
-          <a href="eventos/perfect17/perfect1.php" target="_blank" class="imgC">
-          <img src="img/perfect/001.jpg"></a>
+          <a href="perfect2017" target="_blank" >
+          <img src="img/perfect.jpg" style="width: 100%;"></a>
           </div>       
        <div class="col-md-4 col-sm-6 col-xs-12">   
        <h3><span class="color">CARAVANA PERFECT 2015</span></h3>    
