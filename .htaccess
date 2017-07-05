@@ -1,9 +1,9 @@
 RewriteEngine On 
 Options -Indexes 
-RewriteRule ^automec2017?$ eventos/automec.php
-RewriteRule ^perfect2017?$ eventos/perfect.php
+RewriteRule ^automec2017?$ automec.html
+RewriteRule ^perfect2017?$ perfect.html
 
-ErrorDocument 400 index.php
-ErrorDocument 401 index.php
-ErrorDocument 403 index.php
-ErrorDocument 500 index.php
+ErrorDocument 400 http://riolider.com.br/
+ErrorDocument 401 http://riolider.com.br/
+ErrorDocument 403 http://riolider.com.br/
+ErrorDocument 500 http://riolider.com.br/
