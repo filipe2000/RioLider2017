@@ -122,6 +122,11 @@
                 
                  <div class="item" style="background-image: url(img/slider/data1/images/19.jpg)">
                 </div>
+
+                <div class="item" style="background-image: url(img/slider/data1/images/21.jpg)">
+                </div>
+                <div class="item" style="background-image: url(img/slider/data1/images/22.jpg)">
+                </div>
                 
                 </div>
         </div>
