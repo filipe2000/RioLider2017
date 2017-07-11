@@ -181,7 +181,7 @@ var d= document.getElementById("Down").style.display;
 
 
 <div align="center"  >
-	<?php // include('includes/promocao.php'); ?>
+	<?php  include('includes/promocao.php'); ?>
 </div>
 <!--
 <div class=" container parallax-section" id="vendidos"  class="bg-one" >
