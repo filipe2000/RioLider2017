@@ -56,7 +56,7 @@
 
 		<div class="row subR con-info clearfix text-left cont">
 			<div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1 ">
-			<span style="margin-left: 0px;">(24) 99315-5745</span>
+			<span style="margin-left: 0px;">(24) 99255-9666</span>
 			 <i class="fa fa-whatsapp" style="margin-left: 5px;"></i>
 			</div>	
 		</div><!-- row-->

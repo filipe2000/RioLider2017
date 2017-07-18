@@ -101,7 +101,9 @@
 				 "bortec.png",
 				  "http://www.bortec.com.br/","", 11, 5,				
 				"frontec.png",
-				  "http://www.frontec.com.br/" ,"",  13, 5,			 
+				  "http://www.frontec.com.br/" ,"",  13, 5,
+				  "wega.jpg",
+				  "http://www.wegamotors.com/" ,"",  15, 5,				 
 				   
 				   
 				  "willtec.png",
@@ -115,6 +117,10 @@
 				  "skf.png",
 				  "http://www.skf.com/br/our-company/skf-brasil/index.html","", 
 				   8, 6,
+				   "hipper-freios.png",
+				  "http://www.hipperfreios.com.br/","", 12, 6,
+				  "radiex.jpg",
+				  "http://www.radiex.com.br/","", 14, 6,
 
 				/*"","","",  2, 6
 				"La", "", "", 4, 9,
