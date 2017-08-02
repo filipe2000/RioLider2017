@@ -121,6 +121,8 @@
 				  "http://www.hipperfreios.com.br/","", 12, 6,
 				  "radiex.jpg",
 				  "http://www.radiex.com.br/","", 14, 6,
+				  "andorinha.png",
+				  "http://filtran.com.br/","", 16, 6,
 
 				/*"","","",  2, 6
 				"La", "", "", 4, 9,
