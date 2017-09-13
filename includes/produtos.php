@@ -96,6 +96,9 @@ var d= document.getElementById("Down").style.display;
 				<a href="#produtos" onclick="carregar('includes/produtos/oleo/oleo.html')" class="filter">Óleo</a>
 			</li>
 			<li>
+				<a href="#produtos" onclick="carregar('includes/produtos/pneu/pneu.html')" class="filter">Pneu</a>
+			</li>
+			<li>
 				<a href="#produtos" onclick="carregar('includes/produtos/rolamento/rolamento.html')" class="filter">Rolamento</a>
 			</li>
 					
@@ -159,6 +162,9 @@ var d= document.getElementById("Down").style.display;
 			</li>	
 			<li>
 				<a href="#produtos" onclick="carregar('includes/produtos/oleo/oleo.html')" class="filter">Óleo</a>
+			</li>
+			<li>
+				<a href="#produtos" onclick="carregar('includes/produtos/pneu/pneu.html')" class="filter">Pneu</a>
 			</li>
 			<li>
 				<a href="#produtos" onclick="carregar('includes/produtos/rolamento/rolamento.html')" class="filter">Rolamento</a>

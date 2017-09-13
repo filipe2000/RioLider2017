@@ -105,13 +105,15 @@
 				  "wega.jpg",
 				  "http://www.wegamotors.com/" ,"",  15, 5,				 
 				   
-				   
-				  "willtec.png",
-				  "http://www.willtec.com.br/","",  6, 6,
-				  "syl.png",				  
-				  "http://www.syl.com.br","",  4, 6,					   
+				  "viking.png",
+				  "http://www.viking-pneus.com.br/ligeiros","",  0, 6, 
 				  "total.png",
 				  "http://www.totalbr.com.br/","",  2, 6,
+				  "syl.png",				  
+				  "http://www.syl.com.br","",  4, 6,
+				  "willtec.png",
+				  "http://www.willtec.com.br/","",  6, 6,				   
+				  
 				  "magneti.png",
 				  "http://www.magnetimarelli.com/pt/node/5004","", 10, 6,
 				  "skf.png",

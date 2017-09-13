@@ -84,10 +84,12 @@
 
                 <div class="item" style="background-image: url(img/slider/data1/images/2.jpg)">                    
                 </div>
-
+                <div class="item" style="background-image: url(img/slider/data1/images/23.jpg)">
+                </div>
                 <div class="item" style="background-image: url(img/slider/data1/images/3.jpg)">                    
                 </div>
-                 <div class="item" style="background-image: url(img/slider/data1/images/4.jpg)">                    
+                
+                 <div class="item" style="background-image: url(img/slider/data1/images/4.jpg)">
                 </div>
                  <div class="item" style="background-image: url(img/slider/data1/images/5.jpg)">
                 </div>
@@ -157,6 +159,18 @@
          <div id="caravana" style="width: 100%; height: 300px;"></id></div>
       </div>
     </div>
+    <div class="row subR"><!--linha lançamentos -->
+    <div class="col-md-12 ">
+      <h4 class="news">Lan&ccedil;amentos</h4>
+      <span class="text-center">Clique na marca abaixo e visualize seus produtos</span><br />
+    </div>              
+  </div>
+  <div class="row subR">      
+    <div class="col-md-3 col-md-offset-4 col-sm-2 col-xs-6 imgC" >
+      <a href="lancamento/viking.pdf" target="_blank">
+      <img src="img/logos/viking-continental.png" alt="Viking" border="0" /></a>
+    </div>    
+  </div>
 </div><!-- container -->
 
 <script async src="https://www.youtube.com/iframe_api"></script>
