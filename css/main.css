@@ -365,11 +365,12 @@ figcaption {
 /* --------------------*/
 .news{	
 	color:#000;
-	width:50%;
+	width:100%;
 	font-weight: bold;
 	font-style:italic;
 	background-color:#ff9600;
 	border-radius: 10px;
+	margin: auto;
 }
 .palavras1 {	
 	font-family:"Trebuchet MS";
@@ -464,8 +465,10 @@ input#xs {/*botão exibir e ocultar texto*/
 }
 .news:hover {
     box-shadow: inset 0 0 0 20px #093d80;
-    width: 30%;
+    width: 60%;
     transition:all 0.5s ease;
+    margin: auto;
+    color: #fff;
 }
 .imgC{
 	text-align: center;

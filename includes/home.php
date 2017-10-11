@@ -160,18 +160,33 @@
       </div>
     </div>
     <div class="row subR"><!--linha lançamentos -->
-    <div class="col-md-12 ">
-      <h4 class="news">Lan&ccedil;amentos</h4>
-      <span class="text-center">Clique na marca abaixo e visualize seus produtos</span><br />
-    </div>              
+    <div class="col-md-4 col-md-offset-2 col-sm-4 col-sm-offset-2 col-xs-12 ">
+
+      <div class="row subR">      
+        <div class="col-md-12 imgC" >
+        <h4 class="news">Lan&ccedil;amento</h4>
+      <span class="text-center">Clique na marca abaixo </span><br />
+          <a href="lancamento/viking.pdf" target="_blank">
+          <img src="img/logos/viking-continental.png" alt="Viking" border="0" /></a>
+        </div>    
+      </div>
+      
+    </div> 
+    <div class="col-md-4 col-sm-4 col-xs-12 ">
+      <div class="col-md-12 imgC" >
+        <h4 class="news">Promoção</h4>
+      <span class="text-center">Clique abaixo e visualize a promoção</span><br />
+          <a href="img/Total-Wega.jpg" target="_blank" data-lightbox="promocao" title="Promoção válida até 31/10/2017 ou enquanto durar nosso estoque">
+          <img src="img/promo-2017-10.png" alt="Total-Wega" border="0" /></a>
+        </div>
+    </div>             
   </div>
-  <div class="row subR">      
-    <div class="col-md-3 col-md-offset-4 col-sm-2 col-xs-6 imgC" >
-      <a href="lancamento/viking.pdf" target="_blank">
-      <img src="img/logos/viking-continental.png" alt="Viking" border="0" /></a>
-    </div>    
-  </div>
-</div><!-- container -->
+  
+</div><!-- container 
+<div align="center"  >
+  <?php  // include('includes/promocao.php'); ?>
+</div>
+-->
 
 <script async src="https://www.youtube.com/iframe_api"></script>
     <script>

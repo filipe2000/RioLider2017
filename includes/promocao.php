@@ -4,15 +4,14 @@
         	<h2>Nossas<span class="color"> Promoções</span></h2>
 	        <div class="border"></div>
 	</div>	
-	 <span class="text-center"> Confira as promo&ccedil;&otilde;es do m&ecirc;s de Julho:
+	 <span class="text-center"> Confira a promo&ccedil;&atilde;o do m&ecirc;s de Outubro:
 	 
 	<div class=" row promo subR">	
 		<div class="col-md-8 col-md-offset-2 col-sm-12  " align="center" >
-		<img src="img/07-2017.png" class="imgC">
+		<img src="img/Total-Wega.jpg" class="imgC">
 		</div>
 	</div>
-	<span class="text-center">
-	Pre&ccedil;os v&aacute;lidos at&eacute; 31/07/2017&nbsp;ou enquanto durar o estoque.</span>
+	
 	
 		
 		
