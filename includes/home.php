@@ -64,8 +64,8 @@
                 <div class="item active" style="background-image: url(img/slider/data1/images/0.jpg)">                    
                 </div>
                 <div class="item " style="background-image: url(img/slider/data1/images/1.jpg)">
-                    <div class="container">
-                    <!--
+                   <!-- <div class="container">
+                    
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
@@ -78,8 +78,8 @@
                             </div>
 
                         </div>
-                     -->   
-                    </div>
+                       
+                    </div> -->
                 </div>
 
                 <div class="item" style="background-image: url(img/slider/data1/images/2.jpg)">                    
@@ -160,26 +160,26 @@
       </div>
     </div>
     <div class="row subR"><!--linha lançamentos -->
-    <div class="col-md-4 col-md-offset-2 col-sm-4 col-sm-offset-2 col-xs-12 ">
-
-      <div class="row subR">      
+    <div class="col-md-4 col-md-offset-4 col-sm-4 col-sm-offset-2 col-xs-12 ">
+           
         <div class="col-md-12 imgC" >
         <h4 class="news">Lan&ccedil;amento</h4>
       <span class="text-center">Clique na marca abaixo </span><br />
           <a href="lancamento/viking.pdf" target="_blank">
           <img src="img/logos/viking-continental.png" alt="Viking" border="0" /></a>
         </div>    
-      </div>
-      
-    </div> 
+           
+    </div>
+    <!--
     <div class="col-md-4 col-sm-4 col-xs-12 ">
       <div class="col-md-12 imgC" >
         <h4 class="news">Promoção</h4>
       <span class="text-center">Clique abaixo e visualize a promoção</span><br />
-          <a href="img/Total-Wega.jpg" target="_blank" data-lightbox="promocao" title="Promoção válida até 31/10/2017 ou enquanto durar nosso estoque">
+          <a href="img/Total-Wega.jpg" target="_blank" data-lightbox="promocao" title="Promoção válida até 31/12/2017 ou enquanto durar nosso estoque">
           <img src="img/promo-2017-10.png" alt="Total-Wega" border="0" /></a>
         </div>
-    </div>             
+    </div>  
+    -->           
   </div>
   
 </div><!-- container 

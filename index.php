@@ -70,6 +70,8 @@
     </head>
 	
     <body id="body" >
+
+    
       <!--
 		<div id="loading-mask" >
 			<div class="cssload-loader">
@@ -115,7 +117,11 @@
 		<section id="foot" class="bg-f">
 			<?php include ('includes/footer.php');  ?>			
 		</section>
-		
+
+
+
+
+
 	<!--	 
 	
 	<script src="js/wow.min.js"></script>
